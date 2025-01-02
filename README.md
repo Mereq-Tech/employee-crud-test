@@ -3,6 +3,8 @@
 The Employee CRUD App allows users to manage employee records. This includes creating new employees, updating their information, deleting records, and searching through the employee database.
 
 # Guidelines
+Clone and start challenge repository below
+https://github.com/Mereq-Tech/employee-crud-test
 
 **Dependencies:**
 The project comes pre-installed with the following libraries:tailwindcss,antd,axios,json-server, 
